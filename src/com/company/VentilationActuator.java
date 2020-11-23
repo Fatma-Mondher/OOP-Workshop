@@ -1,3 +1,5 @@
+package com.company;
+
 public class VentilationActuator extends Actuator {
     @Override
     public void setValue(double value) {

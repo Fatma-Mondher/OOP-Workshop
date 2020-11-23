@@ -1,3 +1,7 @@
+package com.company;
+
+import com.company.Unit;
+
 public class Actuator extends Unit {
     double value;
     String building;
