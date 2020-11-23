@@ -1,5 +1,3 @@
-package Actuator;
-
 public class Actuator extends Unit {
     double value;
     String building;
